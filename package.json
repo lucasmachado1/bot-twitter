@@ -14,3 +14,4 @@
     "twit": "^2.2.11"
   }
 }
+”start”: “node index”
